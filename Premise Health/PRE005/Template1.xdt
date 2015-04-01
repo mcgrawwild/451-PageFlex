@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<?NuDoc tsl_version="12"?>
+<PF_Designer_Doc pfdoc_undo_page="131071" pfdoc_left_right="false" composition_version="12">
+	<Master_A guides_horizontal="y_position=894265, y_position=958334, y_position=1043387, y_position=1324217, y_position=1413123, y_position=1510055, y_position=1593868, y_position=1674416, y_position=2203714, y_position=2294059, y_position=2436651" guides_vertical="x_position=235671, x_position=724180, x_position=1348253, x_position=1853810, x_position=1876767">
+		<PF_Image_Base x_position="0" y_position="0" display_order="0" default_image_data_width="31750" default_image_data_height="31750" src="C:\Users\mmcgraw\Documents\Source\Four51 PageFlex\Premise Health\PRE005\data\Images\PRE005.pdf" height="1.000000scale" width="1.000000scale" pfimage_fit="fit_image" image_page_number="1"></PF_Image_Base>
+		<PF_TextFrame_Base height="92223" width="1641096" display_order="1" y_position="2294059" x_position="235671">
+			<_text_column max_width="1641096" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0" align="center">
+					<_char font_size="31743" font_name="/Lato Light" text_color="White">If you're on the </_char>
+					<_char data_tag="CompanyName" font_size="31743" font_name="/Lato Light" text_color="White">COMPANY</_char>
+					<_char font_size="31743" font_name="/Lato Light" text_color="White"> health plan, you're all set - just contact</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0" align="center">
+					<_char font_size="31743" font_name="/Lato Light" text_color="White">the Premise Health Onsite Health Center to make your appointment.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="92223" width="1641096" display_order="2" y_position="2436651" x_position="235671">
+			<_text_column max_width="1641096" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0" align="center">
+					<_char data_tag="Website" font_size="35270" font_name="/Lato" text_color="White">http://wildimpact.com</_char>
+					<_char font_size="35270" font_name="/Lato" text_color="White"> or call </_char>
+					<_char data_tag="Phone1" font_size="35270" font_name="/Lato" text_color="White">999</_char>
+					<_char font_size="35270" font_name="/Lato" text_color="White">-</_char>
+					<_char data_tag="Phone2" font_size="35270" font_name="/Lato" text_color="White">999</_char>
+					<_char font_size="35270" font_name="/Lato" text_color="White">-</_char>
+					<_char data_tag="Phone3" font_size="35270" font_name="/Lato" text_color="White">9999</_char>
+					<_char font_size="35270" font_name="/Lato" text_color="White">.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base copyfitting_rule_name="DayTime" height="67429" width="505557" display_order="3" y_position="1510055" x_position="1348253">
+			<_text_column max_width="505557" min_width="0">
+				<PF_Para_Base align="center">
+					<_char data_tag="Days" font_size="63486" font_name="/Lato Light" text_color="PMS 338c">Monday - Friday</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base copyfitting_rule_name="DayTime" height="67429" width="503934" display_order="4" y_position="1593868" x_position="1348253">
+			<_text_column max_width="503934" min_width="0">
+				<PF_Para_Base align="center">
+					<_char data_tag="Times" font_size="63486" font_name="/Lato Light" text_color="PMS 338c">8 a.m. - 5 p.m.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base copyfitting_rule_name="Location" height="67429" width="503934" display_order="5" y_position="1674416" x_position="1348253">
+			<_text_column max_width="503934" min_width="0">
+				<PF_Para_Base align="center">
+					<_char data_tag="Location" font_size="31743" font_name="/Lato Light" text_color="PMS 338c">111 Missouri Street, Chicago IL</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base runaround="false" height="167368" width="1038879" display_order="6" y_position="790966" x_position="235671">
+			<_text_column runaround="false" v_align_contents="bottom" max_width="1038879" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="130%" hyph_level="0">
+					<_char font_name="/Lato Light" font_size="63486" text_color="PMS 7579c">Introducing the Premise</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="130%" hyph_level="0">
+					<_char font_name="/Lato Light" font_size="63486" text_color="PMS 7579c">Health Onsite Health Center.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="280830" width="982657" display_order="7" y_position="1043387" x_position="235671">
+			<_text_column max_width="982657" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char font_size="42324" font_name="/Lato Light" text_tint="80.000000">There's nothing more important than your health. That's why </_char>
+					<_char data_tag="CompanyName" font_size="42324" font_name="/Lato Light" text_tint="80.000000">COMPANY</_char>
+					<_char font_size="42324" font_name="/Lato Light" text_tint="80.000000"> has partnered with Premise Health to bring you a full suite of onsite health services - to keep you at your best every day.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="43376" width="982657" display_order="8" y_position="1376761" x_position="235671">
+			<_text_column max_width="982657" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char font_size="42324" font_name="/Lato Light" text_tint="80.000000">Key services include:</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="625755" width="467757" display_order="9" y_position="1487490" x_position="235671">
+			<_text_column link_start="145738216" max_width="467757" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_01" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 1</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_02" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 2</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_03" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 3</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_04" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 4</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_05" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 5</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_06" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 6</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_07" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 7</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_08" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 8</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_09" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 9</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_10" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 10</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_11" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 11</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_12" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 12</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_13" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 13</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_14" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 14</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_15" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 15</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_16" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 16</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_17" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 17</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="150%" hyph_level="0">
+					<_char data_tag="Service_18" font_size="42324" font_name="/Lato Light" text_tint="80.000000">Service 18</_char>
+				</PF_Para_Base>
+				<PF_Para_Base hyph_level="0" line_spacing="150%" rule_before_overprint="false" rule_after_overprint="false">
+					<_char data_tag="Service_19" text_tint="80.000000" font_name="/Lato Light" font_size="42324">Service 19</_char>
+				</PF_Para_Base>
+				<PF_Para_Base hyph_level="0" line_spacing="150%" rule_before_overprint="false" rule_after_overprint="false">
+					<_char data_tag="Service_20" text_tint="80.000000" font_name="/Lato Light" font_size="42324">Service 20</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="625755" width="467757" display_order="10" y_position="1487490" x_position="724180">
+			<_text_column link_end="145738216" link_start="" max_width="467757" min_width="0"></_text_column>
+		</PF_TextFrame_Base>
+		<PF_Image_Base anchor_point="center_bottom" max_height="429952" max_width="532270" data_tag="rule_Picture" pfimage_fit="fit_box" width="proportional" height="proportional" src="" default_image_data_height="429952" default_image_data_width="532270" display_order="11" y_position="1324217" x_position="1601178"></PF_Image_Base>
+		<PF_TextFrame_Base height="74758" width="505557" display_order="12" y_position="1413123" x_position="1348253">
+			<_text_column max_width="505557" min_width="0">
+				<PF_Para_Base align="center">
+					<_char text_tint="80.000000" font_name="/Lato">Visit the center</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+	</Master_A>
+</PF_Designer_Doc>
+
+<?Pageflex CreatedBy="Pageflex Persona" AppVersion="10.1132.15.0" EngineVersion="6.5.2.0" ?>
+<!-- Pageflex Creation Data
+Created by: Pageflex Persona
+AppVersion 10.1132.15.0
+EngineVersion 6.5.2.0
+-->

@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<?NuDoc tsl_version="12"?>
+<PF_Designer_Doc pfdoc_undo_page="196607" pfdoc_left_right="false" composition_version="12">
+	<Master_A guides_horizontal="y_position=637021">
+		<PF_Image_Base image_page_number="2" data_tag="rule_HeaderImage" max_height="297269" max_width="733883" pfimage_fit="fit_box" width="proportional" height="proportional" src="" default_image_data_height="297269" default_image_data_width="733883" display_order="1" y_position="233850" x_position="1711520"></PF_Image_Base>
+		<PF_TextFrame_Base height="267542" width="377175" display_order="2" y_position="637021" x_position="2620035">
+			<_text_column max_width="377175" min_width="0">
+				<PF_Para_Base hyph_level="0" line_spacing="155%" rule_after_overprint="false" rule_before_overprint="false" space_after="0">
+					<_char font_size="31743" text_color="PMS7579c" font_name="/Lato">Questions? Need to make an appointment? Visit: </_char>
+					<_char data_tag="Website" font_size="31743" text_color="PMS7579c" font_name="/Lato">myhealthcenterhome.com/sites/directtv</_char>
+					<_char font_size="31743" text_color="PMS7579c" font_name="/Lato"> </_char>
+				</PF_Para_Base>
+				<PF_Para_Base hyph_level="0" line_spacing="155%" rule_after_overprint="false" rule_before_overprint="false" space_after="0">
+					<_char font_size="31743" text_color="PMS7579c" font_name="/Lato">or call </_char>
+					<_char data_tag="Phone1" font_size="31743" text_color="PMS7579c" font_name="/Lato">111</_char>
+					<_char font_size="31743" text_color="PMS7579c" font_name="/Lato">-</_char>
+					<_char data_tag="Phone2" font_size="31743" text_color="PMS7579c" font_name="/Lato">222</_char>
+					<_char font_size="31743" text_color="PMS7579c" font_name="/Lato">-</_char>
+					<_char data_tag="Phone3" font_size="31743" text_color="PMS7579c" font_name="/Lato">3333</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="202513" width="817490" display_order="3" y_position="872980" x_position="1717094">
+			<_text_column max_width="817490" min_width="0">
+				<PF_Para_Base hyph_level="0" font_size="31743" rule_after_overprint="false" rule_before_overprint="false" line_spacing="155%">
+					<_char text_tint="80.000000" font_name="/Lato Light" font_size="31743" text_color="Black">That's why </_char>
+					<_char text_tint="80.000000" data_tag="CompanyName" font_name="/Lato Light" font_size="31743" text_color="Black">COMPANY</_char>
+					<_char text_tint="80.000000" font_name="/Lato Light" font_size="31743" text_color="Black"> has partnered with Premise Health to create an onsite health center for you. If you're employed by </_char>
+					<_char text_tint="80.000000" data_tag="CompanyName" font_name="/Lato Light" font_size="31743" text_color="Black">COMPANY</_char>
+					<_char text_tint="80.000000" font_name="/Lato Light" font_size="31743" text_color="Black">, you're all set - just call and make an appointment.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_Image_Base data_tag="CompanyLogo" max_height="103535" max_width="410998" anchor_point="right_bottom" pfimage_fit="fit_box" width="proportional" height="proportional" src="" default_image_data_height="103535" default_image_data_width="410998" display_order="4" y_position="1266846" x_position="2486301"></PF_Image_Base>
+		<PF_TextFrame_Base height="302843" width="1001422" display_order="5" y_position="326750" x_position="3242458">
+			<_text_column max_width="1001422" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="155%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char>We're here to change the way you and your family experience healthcare - making it easier, more convenient and more affordable than ever. No more running around town for checkups or tests. No more scrambling for an appointment when you're sick. Your onsite health center will handle it all. Services at the </_char>
+					<_char data_tag="CompanyName">COMPANY</_char>
+					<_char> are provided to you free of charge as part of your employee benefit plan.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="306558" width="503499" display_order="6" y_position="925002" x_position="3244314">
+			<_text_column link_start="146860672" max_width="503499" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_01">Service 1</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_02">Service 2</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_03">Service 3</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_04">Service 4</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_05">Service 5</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_06">Service 6</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_07">Service 7</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_08">Service 8</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_09">Service 9</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" space_after="14108" line_spacing="110%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Service_10">Service 10</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="306558" width="503499" display_order="7" y_position="925333" x_position="3800166">
+			<_text_column link_end="146860672" link_start="" max_width="503499" min_width="0"></_text_column>
+		</PF_TextFrame_Base>
+		<PF_Image_Base data_tag="rule_CoverImage" image_page_number="1" pfimage_fit="fit_image" width="1.000000scale" height="1.000000scale" src="C:\Users\mmcgraw\Documents\Source\Four51 PageFlex\Premise Health\PRE006\data\Images\PRE006.pdf" default_image_data_height="31750" default_image_data_width="31750" display_order="0" y_position="0" x_position="0"></PF_Image_Base>
+	</Master_A>
+	<Master_A guides_vertical="x_position=79259, x_position=801935, x_position=2252766, x_position=3210747, x_position=3410760, x_position=3777211" guides_horizontal="y_position=145649, y_position=224303, y_position=1237165, y_position=1410303">
+		<PF_TextFrame_Base height="1325494" width="625672" display_order="2" y_position="84809" x_position="79259">
+			<_text_column max_width="625672" min_width="0">
+				<PF_Para_Base space_before="31743" space_after="10581" font_name="/Lato Light" font_size="31743" hyph_level="0" line_spacing="100%" rule_before_overprint="false" rule_after_overprint="false">
+					<_char font_size="45851" text_tint="100.000000" text_color="PMS 338c" font_name="/Lato Light">Who can use the center?</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000">If you are enrolled in </_char>
+					<_char text_tint="80.000000" data_tag="CompanyName">COMPANY</_char>
+					<_char text_tint="80.000000">'s insurance plan, you </_char>
+					<_char text_tint="80.000000" data_tag="rule_FamilyText2">and your legal dependents over two years of age </_char>
+					<_char text_tint="80.000000">are eligible to use the onsite health </_char>
+					<_char text_tint="80.000000" data_tag="rule_PharmacyText">and pharmacy </_char>
+					<_char text_tint="80.000000">services.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_before="31743" space_after="10581" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="100.000000" font_size="42324" text_color="PMS 338c">Getting to know you.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_before="0" rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="31743" text_color="Black">The cornerstone of the Premise Health experience is simple: it's all about you. Our staff is focused on your wellness. Compared to traditional community medical practices, our providers spend more time building an understanding of your health.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_before="21162" rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="31743" text_color="Black">It's a truly different experience. It's less rushed and it starts with having the right people to take care of you. People who will listen. People who will build a real, trusting relationship with you - leading to better care.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_before="31743" space_after="10581" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="100.000000" font_size="42324" text_color="PMS 338c">Better relationships for better care.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="31743" text_color="Black">Your Premise Health center staff includes full-time medical support personnel. Everyone on your center's team has been fully screened and selected by Premise Health for their leading-edge knowledge and skills.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="124690" width="1019742" display_order="3" y_position="1144150" x_position="1774847">
+			<_text_column max_width="1019742" min_width="0">
+				<PF_Para_Base align="center" rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="150%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char>Just visit </_char>
+					<_char data_tag="Website">visit https://site.com</_char>
+				</PF_Para_Base>
+				<PF_Para_Base align="center" rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="150%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char>or call </_char>
+					<_char data_tag="Phone1">111</_char>
+					<_char>-</_char>
+					<_char data_tag="Phone2">222</_char>
+					<_char>-</_char>
+					<_char data_tag="Phone3">3333</_char>
+					<_char> to learn more or make an appointment.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_Image_Base data_tag="CompanyLogo" max_height="82907" max_width="307819" anchor_point="right_bottom" pfimage_fit="fit_box" width="proportional" height="proportional" src="" default_image_data_height="82907" default_image_data_width="307819" display_order="4" y_position="1410303" x_position="2252766"></PF_Image_Base>
+		<PF_TextFrame_Base runaround="false" anchor_point="left_top" height="58402" width="1016979" display_order="5" y_position="1237165" x_position="3410760">
+			<_text_column runaround="false" v_align_contents="top" max_width="1016979" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="150%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char font_name="/Lato" font_size="31743"></_char>
+					<_char data_tag="Website" font_name="/Lato" font_size="31743">https://mysite.com</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base runaround="false" anchor_point="left_top" height="58402" width="158431" display_order="6" y_position="1025724" x_position="3212249">
+			<_text_column runaround="false" v_align_contents="top" max_width="158431" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="150%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char font_name="/Lato Light" font_size="31743">Available:</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base runaround="false" anchor_point="left_top" height="211735" width="797560" display_order="7" y_position="1025430" x_position="3413219">
+			<_text_column runaround="false" v_align_contents="top" max_width="797560" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="150%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Hours1" font_name="/Lato Light" font_size="31743">Hours Line 1</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="150%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Hours2" font_name="/Lato Light" font_size="31743">Hours Line 2</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="150%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Hours3" font_name="/Lato Light" font_size="31743">Hours Line 3</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="150%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char data_tag="Hours4" font_name="/Lato Light" font_size="31743">Hours Line 4</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_Image_Base data_tag="CompanyLogo" max_height="82907" max_width="307819" anchor_point="right_bottom" pfimage_fit="fit_box" width="proportional" height="proportional" src="" default_image_data_height="82907" default_image_data_width="307819" display_order="8" y_position="1410303" x_position="3777211"></PF_Image_Base>
+		<PF_TextFrame_Base height="1186000" width="668558" display_order="9" y_position="224303" x_position="801935">
+			<_text_column max_width="668558" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="31743" text_color="Black">The Premise Health onsite health</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="31743" text_color="Black">center is not designed to replace your </_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="31743" text_color="Black">current doctor. It works alongside your </_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="31743" text_color="Black">current medical team, adding a new layer of convenience so you never miss a beat. Plus, if you ever need a referral to a specialist, we're right here for you.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base text_color="PMS 338c" space_before="42324" space_after="21162" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0" font_size="42324" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="42324" text_color="PMS 338c">Your privacy is our priority</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="31743" text_color="Black">We take your privacy seriously. Premise Health maintains all of your records, and we follow the same state and federal laws as any healthcare organization. We can't share any information without your permission, unless it pertains directly to a workplace injury or illness.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_before="42324" space_after="21162" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="100.000000" font_size="42324" text_color="PMS 338c">Better health, online.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="145%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char text_tint="80.000000" font_size="31743" text_color="Black">Visit </_char>
+					<_char data_tag="Website" text_tint="80.000000" font_size="31743" text_color="Black">http://www.wildimpact.com</_char>
+					<_char text_tint="80.000000" font_size="31743" text_color="Black"> to view your Health Portal. This secure website gives you full access to your health records, visit history and test results. It's also a convenient way for you to make appointments, email providers and more. We'll be adding new features in the coming months.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_Image_Base image_page_number="2" pfimage_fit="fit_image" width="1.000000scale" height="1.000000scale" src="C:\Users\mmcgraw\Documents\Source\Four51 PageFlex\Premise Health\PRE006\data\Images\PRE006.pdf" default_image_data_height="31750" default_image_data_width="31750" display_order="0" y_position="0" x_position="0"></PF_Image_Base>
+		<PF_TextFrame_Base height="130718" width="1207265" display_order="1" y_position="663245" x_position="3210747">
+			<_text_column max_width="1207265" min_width="0">
+				<PF_Para_Base>
+					<_char font_size="56432" text_color="White" font_name="/Lato Light">Onsite healthcare for you </_char>
+					<_char data_tag="rule_FamilyText" font_size="56432" text_color="White" font_name="/Lato Light">and your family</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base runaround="false" anchor_point="left_top" height="58402" width="158431" display_order="10" y_position="1237165" x_position="3210747">
+			<_text_column runaround="false" v_align_contents="top" max_width="158431" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" text_color="White" line_spacing="150%" hyph_level="0" font_size="31743" font_name="/Lato Light">
+					<_char font_name="/Lato Light" font_size="31743">Visit:</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+	</Master_A>
+</PF_Designer_Doc>
+
+<?Pageflex CreatedBy="Pageflex Persona" AppVersion="10.1132.15.0" EngineVersion="6.5.2.0" ?>
+<!-- Pageflex Creation Data
+Created by: Pageflex Persona
+AppVersion 10.1132.15.0
+EngineVersion 6.5.2.0
+-->

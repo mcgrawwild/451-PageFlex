@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?NuDoc tsl_version="12"?>
+<PF_Designer_Doc pfdoc_undo_page="131071" pfdoc_left_right="false" composition_version="12">
+	<Master_A guides_horizontal="y_position=5308531, y_position=7399363, y_position=8802302" guides_vertical="x_position=823233, x_position=7865081">
+		<PF_Image_Base x_position="0" y_position="0" display_order="0" default_image_data_width="1093752" default_image_data_height="1658268" src="C:\Users\mmcgraw\Documents\Source\Four51 PageFlex\Premise Health\PRE008\Images\PRE008-BannerTemplate-1.pdf" height="1.000000scale" width="1.000000scale" pfimage_fit="fit_image" image_page_number="1" data_tag="rule_BackgroundOption"></PF_Image_Base>
+		<PF_TextFrame_Base height="4217868" width="7041848" display_order="1" y_position="909639" x_position="823233">
+			<_text_column max_width="7041848" min_width="0">
+				<PF_Para_Base line_spacing="145%" rule_after_overprint="false" rule_before_overprint="false" hyph_level="0" font_size="1058100">
+					<_char data_tag="HealthCenterName" font_name="/Lato Light" font_size="1058100" text_color="White">Fidelity Health and Wellness Center</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_Image_Base data_tag="rule_LogoOption" max_height="1602066" max_width="3991588" anchor_point="right_top" pfimage_fit="fit_box" width="proportional" height="proportional" src="C:\Users\mmcgraw\Documents\Source\Four51 PageFlex\Premise Health\PRE008\Images\PremiseHealth-Operated-By-FullCMYK.eps" default_image_data_height="1602066" default_image_data_width="3991588" display_order="2" y_position="5308531" x_position="7865081"></PF_Image_Base>
+		<PF_TextFrame_Base height="820779" width="4877839" display_order="3" y_position="7399363" x_position="890825">
+			<_text_column max_width="4877839" min_width="0">
+				<PF_Para_Base>
+					<_char text_color="White" font_size="740670" font_name="/Lato Light">Key Services</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base height="7231448" width="7041848" display_order="4" y_position="8802302" x_position="823233">
+			<_text_column max_width="7041848" min_width="0">
+				<PF_Para_Base space_after="352700" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0">
+					<_char data_tag="Services01" font_size="423240" font_name="/Lato Light" text_color="White">Emergency/Urgent Care Services</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="352700" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0">
+					<_char data_tag="Services02" font_size="423240" font_name="/Lato Light" text_color="White">Laboratory Services</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="352700" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0">
+					<_char data_tag="Services03" font_size="423240" font_name="/Lato Light" text_color="White">Flue Clinics</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="352700" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0">
+					<_char data_tag="Services04" font_size="423240" font_name="/Lato Light" text_color="White">Referral Care</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="352700" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0">
+					<_char data_tag="Services05" font_size="423240" font_name="/Lato Light" text_color="White">Work Related Exams and Testing</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="352700" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0">
+					<_char data_tag="Services06" font_size="423240" font_name="/Lato Light" text_color="White">Work Related Injuries and Illness Care</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="352700" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0">
+					<_char data_tag="Services07" font_size="423240" font_name="/Lato Light" text_color="White">Disease Management</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="352700" rule_after_overprint="false" rule_before_overprint="false" line_spacing="100%" hyph_level="0">
+					<_char data_tag="Services08" font_size="423240" font_name="/Lato Light" text_color="White">Health Screenings</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base copyfitting_rule_name="NewRule1" runaround="false" height="3977948" width="7041848" display_order="5" y_position="16127458" x_position="823233">
+			<_text_column runaround="false" v_align_contents="center" max_width="7041848" min_width="0">
+				<PF_Para_Base space_after="423240" rule_after_overprint="false" rule_before_overprint="false" hyph_level="0" align="center">
+					<_char font_size="564320" font_name="/Lato Light">Make an appointment today!</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="493780" align="center" hyph_level="0" rule_before_overprint="false" rule_after_overprint="false">
+					<_char font_name="/Lato Light" font_size="952290" data_tag="Phone1">859</_char>
+					<_char font_name="/Lato Light" font_size="952290">-</_char>
+					<_char font_name="/Lato Light" font_size="952290" data_tag="Phone2">386</_char>
+					<_char font_name="/Lato Light" font_size="952290">-</_char>
+					<_char font_name="/Lato Light" font_size="952290" data_tag="Phone3">3000</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="84648" align="center" hyph_level="0" rule_before_overprint="false" rule_after_overprint="false">
+					<_char data_tag="Personalized1" font_name="/Lato Light" font_size="352700">Personalization 1</_char>
+				</PF_Para_Base>
+				<PF_Para_Base space_after="84648" align="center" hyph_level="0" rule_before_overprint="false" rule_after_overprint="false">
+					<_char data_tag="Personalized2" font_name="/Lato Light" font_size="352700">Personalization 2</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+	</Master_A>
+</PF_Designer_Doc>
+
+<?Pageflex CreatedBy="Pageflex Persona" AppVersion="10.1132.15.0" EngineVersion="6.5.2.0" ?>
+<!-- Pageflex Creation Data
+Created by: Pageflex Persona
+AppVersion 10.1132.15.0
+EngineVersion 6.5.2.0
+-->

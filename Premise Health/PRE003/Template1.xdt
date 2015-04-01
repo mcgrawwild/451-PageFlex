@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?NuDoc tsl_version="12"?>
+<PF_Designer_Doc pfdoc_undo_page="131071" pfdoc_left_right="false" composition_version="12">
+	<Master_A>
+		<PF_Image_Base image_page_number="1" pfimage_fit="fit_image" width="1.000000scale" height="1.000000scale" src="C:\Users\mmcgraw\Documents\Source\Four51 PageFlex\Premise Health\PRE003\data\Images\PRE003.pdf" default_image_data_height="31750" default_image_data_width="31750" display_order="0" y_position="0" x_position="0"></PF_Image_Base>
+		<PF_TextFrame_Base height="40041" width="330797" display_order="1" y_position="417277" x_position="61437">
+			<_text_column max_width="330797" min_width="0">
+				<PF_Para_Base>
+					<_char text_tint="80.000000" font_size="31743" font_name="/Lato Light">(</_char>
+					<_char data_tag="Phone1" text_tint="80.000000" font_size="31743" font_name="/Lato Light">111</_char>
+					<_char text_tint="80.000000" font_size="31743" font_name="/Lato Light">) </_char>
+					<_char data_tag="Phone2" text_tint="80.000000" font_size="31743" font_name="/Lato Light">222</_char>
+					<_char text_tint="80.000000" font_size="31743" font_name="/Lato Light">-</_char>
+					<_char data_tag="Phone3" text_tint="80.000000" font_size="31743" font_name="/Lato Light">3333</_char>
+					<_char text_tint="80.000000" font_size="31743" font_name="/Lato Light"></_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+	</Master_A>
+	<Master_A>
+		<PF_Image_Base image_page_number="2" pfimage_fit="fit_image" width="1.000000scale" height="1.000000scale" src="C:\Users\mmcgraw\Documents\Source\Four51 PageFlex\Premise Health\PRE003\data\Images\PRE003.pdf" default_image_data_height="31750" default_image_data_width="31750" display_order="0" y_position="0" x_position="0"></PF_Image_Base>
+	</Master_A>
+</PF_Designer_Doc>
+
+<?Pageflex CreatedBy="Pageflex Persona" AppVersion="10.1132.15.0" EngineVersion="6.5.2.0" ?>
+<!-- Pageflex Creation Data
+Created by: Pageflex Persona
+AppVersion 10.1132.15.0
+EngineVersion 6.5.2.0
+-->

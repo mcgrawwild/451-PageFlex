@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?NuDoc tsl_version="12"?>
+<PF_Designer_Doc use_baseline_for_fixed_line_spacing="false" use_legacy_font_ascenders="7" line_spacing_accomodates_default_font="false" interparagraph_space_overlaps="false" pfdoc_undo_page="131071" pfdoc_left_right="false" composition_version="12">
+	<Master_A guides_horizontal="" grid_rows="height=1524000" grid_columns="width=1079500" guides_vertical="x_position=30754, x_position=1046479">
+		<PF_Image_Base image_page_number="1" pfimage_fit="fit_image" width="1.000000scale" height="1.000000scale" src="C:\Users\mmcgraw\Documents\Source\Four51 PageFlex\Premise Health\PRE004\data\Images\PRE004.pdf" default_image_data_height="31750" default_image_data_width="31750" display_order="0" y_position="0" x_position="0"></PF_Image_Base>
+		<PF_TextFrame_Base copyfitting_rule_name="Contact" height="65646" width="1015725" display_order="1" y_position="1057061" x_position="30754">
+			<_text_column max_width="1015725" min_width="0">
+				<PF_Para_Base align="center">
+					<_char data_tag="Website" text_color="White" font_name="/Lato Light">http://wildimpact.com</_char>
+					<_char text_color="White" font_name="/Lato Light"> or call </_char>
+					<_char data_tag="Phone1" text_color="White" font_name="/Lato Light">111</_char>
+					<_char text_color="White" font_name="/Lato Light">-</_char>
+					<_char data_tag="Phone2" text_color="White" font_name="/Lato Light">222</_char>
+					<_char text_color="White" font_name="/Lato Light">-</_char>
+					<_char data_tag="Phone3" text_color="White" font_name="/Lato Light">3333</_char>
+					<_char text_color="White" font_name="/Lato Light">.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_TextFrame_Base copyfitting_rule_name="DaysHours" height="114127" width="1015725" display_order="2" y_position="1201496" x_position="30754">
+			<_text_column max_width="1015725" min_width="0">
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="110%" align="center">
+					<_char text_color="White" font_name="/Lato Light">Open </_char>
+					<_char data_tag="Hours1" text_color="White" font_name="/Lato Light">Monday - Friday, 7 a.m. - 6 p.m.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" line_spacing="110%" align="center">
+					<_char data_tag="Location1" text_color="White" font_name="/Lato Light">LOCATION</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+		<PF_Image_Base data_tag="CompanyLogo" max_height="104329" max_width="294924" pfimage_fit="fit_box" width="proportional" height="proportional" src="" default_image_data_height="104329" default_image_data_width="294924" display_order="3" y_position="1391782" x_position="62263"></PF_Image_Base>
+		<PF_TextFrame_Base height="182339" width="448105" display_order="4" y_position="395214" x_position="550848">
+			<_text_column max_width="448105" min_width="0">
+				<PF_Para_Base line_spacing="130%" rule_after_overprint="false" rule_before_overprint="false" space_after="0" hyph_level="0">
+					<_char text_color="White" font_name="/Lato Light">Make an appointment.</_char>
+				</PF_Para_Base>
+				<PF_Para_Base line_spacing="130%" rule_after_overprint="false" rule_before_overprint="false" space_after="0" hyph_level="0">
+					<_char data_tag="rulePharmacy" text_color="White" font_name="/Lato Light">Refill your prescription.</_char>
+					<_char text_color="White" font_name="/Lato Light"></_char>
+				</PF_Para_Base>
+				<PF_Para_Base line_spacing="130%" rule_after_overprint="false" rule_before_overprint="false" space_after="0" hyph_level="0">
+					<_char text_color="White" font_name="/Lato Light">Feel your best.</_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+	</Master_A>
+</PF_Designer_Doc>
+
+<?Pageflex CreatedBy="Pageflex Persona" AppVersion="10.1132.15.0" EngineVersion="6.5.2.0" ?>
+<!-- Pageflex Creation Data
+Created by: Pageflex Persona
+AppVersion 10.1132.15.0
+EngineVersion 6.5.2.0
+-->
